@@ -19,7 +19,7 @@ public class ScannerClassExample {
 		System.out.println("The TNS UID is: " + uid);
 		
 		System.out.println("The Dept is: " + dept);
-		
+		sc.close();
 		
 	}
 	
