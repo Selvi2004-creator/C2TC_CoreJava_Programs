@@ -3,7 +3,7 @@ package com.tnsif.exceptionhandling_1;
 
 public class TryCatchExample {
 	static int performDivision(int x, int y) {
-		System.out.println("I am in performmDivision method");
+		System.out.println("I am in perform Division method");
 		int z = 0;
 		z = x / y;
 		return z;
